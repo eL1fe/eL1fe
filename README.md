@@ -50,6 +50,17 @@ const pavel = {
       <sub>Collect user feedback with screenshots</sub>
     </td>
     <td align="center" width="50%">
+      <a href="https://ogshot.cc">
+        <img src="https://img.shields.io/badge/OGShot-000000?style=for-the-badge&logo=image&logoColor=white" alt="OGShot"/>
+      </a>
+      <br/>
+      <sub><b>OG Image API</b></sub>
+      <br/>
+      <sub>Generate social preview images via API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://contextwell.app">
         <img src="https://img.shields.io/badge/ContextWell-000000?style=for-the-badge&logo=apple-health&logoColor=white" alt="ContextWell"/>
       </a>
@@ -57,6 +68,8 @@ const pavel = {
       <sub><b>AI Health Tracker</b></sub>
       <br/>
       <sub>Sleep, nutrition & fasting with gamification</sub>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
