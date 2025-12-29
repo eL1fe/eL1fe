@@ -91,10 +91,12 @@ const pavel = {
 
 ## 📊 Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eL1fe&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=fff&text_color=aaa&icon_color=fff" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=eL1fe&theme=dark&hide_border=true&background=000000&stroke=333&ring=fff&fire=fff&currStreakLabel=fff" />
-</p>
+<a href="https://github.com/eL1fe">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eL1fe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" />
+</a>
+<a href="https://github.com/eL1fe">
+  <img height="160" src="https://streak-stats.demolab.com?user=eL1fe&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+</a>
 
 <br/>
 
