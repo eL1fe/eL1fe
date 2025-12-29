@@ -8,7 +8,7 @@
 ```typescript
 const pavel = {
   location: "Building cool stuff",
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL"],
+  stack: ["TypeScript", "Bun", "Elysia.js", "Laravel", "Vue", "React", "Next.js"],
   currently: "Shipping products & writing code",
   portfolio: "el1fe.com"
 };
@@ -76,13 +76,15 @@ const pavel = {
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=fbf0df" />
+  <img src="https://img.shields.io/badge/Elysia-000?style=flat-square&logo=elysia&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=3FCF8E" />
   <img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff" />
 </p>
 
 <br/>
