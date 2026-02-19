@@ -7,7 +7,7 @@
 
 ```typescript
 const pavel = {
-  location: "Building cool stuff",
+  focus: "Building cool stuff",
   stack: ["TypeScript", "Bun", "Elysia.js", "Laravel", "Vue", "React", "Next.js"],
   currently: "Shipping products & writing code",
   portfolio: "el1fe.com"
