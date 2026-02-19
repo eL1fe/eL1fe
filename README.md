@@ -21,13 +21,13 @@ const pavel = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://staffhub.cc">
-        <img src="https://img.shields.io/badge/StaffHub-000000?style=for-the-badge&logo=slack&logoColor=white" alt="StaffHub"/>
+      <a href="https://cogitator.app">
+        <img src="https://img.shields.io/badge/Cogitator-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cogitator"/>
       </a>
       <br/>
-      <sub><b>HR platform for Slack</b></sub>
+      <sub><b>Sovereign AI Agent Runtime</b></sub>
       <br/>
-      <sub>Leave management, goals, kudos & recognition</sub>
+      <sub>Kubernetes for AI Agents. Self-hosted. TypeScript-native.</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://readmeforge.app">
@@ -80,6 +80,7 @@ const pavel = {
 
 | Project | Description | |
 |---------|-------------|---|
+| [**Cogitator**](https://github.com/eL1fe/Cogitator) | Sovereign AI Agent Runtime — self-hosted, TypeScript-native | [![GitHub](https://img.shields.io/github/stars/eL1fe/Cogitator?style=flat-square&color=black)](https://github.com/eL1fe/Cogitator) |
 | [**smart-commit**](https://github.com/eL1fe/smart-commit) | CLI for beautiful, consistent git commits | [![npm](https://img.shields.io/npm/v/smart-commit?style=flat-square&color=black)](https://www.npmjs.com/package/smart-commit) |
 | [**feedbackly-widget**](https://github.com/eL1fe/feedbackly-widget) | Lightweight feedback widget with screenshot support | [![GitHub](https://img.shields.io/github/stars/eL1fe/feedbackly-widget?style=flat-square&color=black)](https://github.com/eL1fe/feedbackly-widget) |
 
@@ -102,6 +103,29 @@ const pavel = {
 
 <br/>
 
+## 📊 Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eL1fe&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eL1fe&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=eL1fe&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=eL1fe&hide_border=true&background=00000000" width="48%" />
+  </picture>
+</p>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eL1fe/eL1fe/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/eL1fe/eL1fe/output/github-snake.svg" alt="Snake animation" width="100%" />
+</picture>
+
+<br/>
 
 ## 🔗 Connect
 
