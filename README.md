@@ -70,6 +70,13 @@ const pavel = {
       <sub>Sleep, nutrition & fasting with gamification</sub>
     </td>
     <td align="center" width="50%">
+      <a href="https://mcpdir.com">
+        <img src="https://img.shields.io/badge/MCPDir-000000?style=for-the-badge&logo=compass&logoColor=white" alt="MCPDir"/>
+      </a>
+      <br/>
+      <sub><b>MCP Server Directory</b></sub>
+      <br/>
+      <sub>Discover & explore Model Context Protocol servers</sub>
     </td>
   </tr>
 </table>
@@ -83,6 +90,7 @@ const pavel = {
 | [**Cogitator**](https://github.com/eL1fe/Cogitator) | Sovereign AI Agent Runtime — self-hosted, TypeScript-native | [![GitHub](https://img.shields.io/github/stars/eL1fe/Cogitator?style=flat-square&color=black)](https://github.com/eL1fe/Cogitator) |
 | [**smart-commit**](https://github.com/eL1fe/smart-commit) | CLI for beautiful, consistent git commits | [![npm](https://img.shields.io/npm/v/smart-commit?style=flat-square&color=black)](https://www.npmjs.com/package/smart-commit) |
 | [**feedbackly-widget**](https://github.com/eL1fe/feedbackly-widget) | Lightweight feedback widget with screenshot support | [![GitHub](https://img.shields.io/github/stars/eL1fe/feedbackly-widget?style=flat-square&color=black)](https://github.com/eL1fe/feedbackly-widget) |
+| [**mcpdir**](https://github.com/eL1fe/mcpdir) | MCP server directory — discover, search & explore MCP servers | [![GitHub](https://img.shields.io/github/stars/eL1fe/mcpdir?style=flat-square&color=black)](https://github.com/eL1fe/mcpdir) |
 
 <br/>
 
