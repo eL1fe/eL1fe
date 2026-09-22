@@ -7,10 +7,11 @@
 
 ```typescript
 const pavel = {
-  focus: "Building cool stuff",
-  stack: ["TypeScript", "Bun", "Elysia.js", "Laravel", "Vue", "React", "Next.js"],
-  currently: "Shipping products & writing code",
-  portfolio: "el1fe.com"
+  role: "Full-Stack Developer",
+  focus: ["AI developer tools", "high-load web systems", "great UX"],
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "Docker"],
+  currently: "Building AI-powered products & fintech infrastructure",
+  portfolio: "https://el1fe.com"
 };
 ```
 
@@ -21,13 +22,15 @@ const pavel = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://cogitator.app">
-        <img src="https://img.shields.io/badge/Cogitator-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cogitator"/>
+      <a href="https://mcpdir.dev">
+        <img src="https://img.shields.io/badge/MCP_Hub-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Hub"/>
       </a>
       <br/>
-      <sub><b>Sovereign AI Agent Runtime</b></sub>
+      <sub><b>Open MCP Server Directory</b></sub>
       <br/>
-      <sub>Kubernetes for AI Agents. Self-hosted. TypeScript-native.</sub>
+      <sub>Discover, search and validate Model Context Protocol servers</sub>
+      <br/>
+      <a href="https://mcpdir.dev/servers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmcpdir.dev%2Fapi%2Fstats&query=%24.servers&label=servers&color=06b6d4&style=flat-square" alt="Indexed MCP servers"/></a>
     </td>
     <td align="center" width="50%">
       <a href="https://readmeforge.app">
@@ -61,13 +64,13 @@ const pavel = {
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://contextwell.app">
-        <img src="https://img.shields.io/badge/ContextWell-000000?style=for-the-badge&logo=apple-health&logoColor=white" alt="ContextWell"/>
+      <a href="https://cogitator.app">
+        <img src="https://img.shields.io/badge/Cogitator-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cogitator"/>
       </a>
       <br/>
-      <sub><b>AI Health Tracker</b></sub>
+      <sub><b>Sovereign AI Agent Runtime</b></sub>
       <br/>
-      <sub>Sleep, nutrition & fasting with gamification</sub>
+      <sub>Kubernetes for AI agents. Self-hosted and TypeScript-native.</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://mcpdir.com">
@@ -87,7 +90,8 @@ const pavel = {
 
 | Project | Description | |
 |---------|-------------|---|
-| [**Cogitator**](https://github.com/eL1fe/Cogitator) | Sovereign AI Agent Runtime — self-hosted, TypeScript-native | [![GitHub](https://img.shields.io/github/stars/eL1fe/Cogitator?style=flat-square&color=black)](https://github.com/eL1fe/Cogitator) |
+| [**Cogitator**](https://github.com/cogitator-ai/Cogitator-AI) | Sovereign AI Agent Runtime — self-hosted, TypeScript-native | [![GitHub](https://img.shields.io/github/stars/cogitator-ai/Cogitator-AI?style=flat-square&color=black)](https://github.com/cogitator-ai/Cogitator-AI) |
+| [**mcpdir**](https://github.com/eL1fe/mcpdir) | Open MCP server directory with search, validation and multi-source indexing | [![GitHub](https://img.shields.io/github/stars/eL1fe/mcpdir?style=flat-square&color=black)](https://github.com/eL1fe/mcpdir) |
 | [**smart-commit**](https://github.com/eL1fe/smart-commit) | CLI for beautiful, consistent git commits | [![npm](https://img.shields.io/npm/v/smart-commit?style=flat-square&color=black)](https://www.npmjs.com/package/smart-commit) |
 | [**feedbackly-widget**](https://github.com/eL1fe/feedbackly-widget) | Lightweight feedback widget with screenshot support | [![GitHub](https://img.shields.io/github/stars/eL1fe/feedbackly-widget?style=flat-square&color=black)](https://github.com/eL1fe/feedbackly-widget) |
 | [**mcpdir**](https://github.com/eL1fe/mcpdir) | MCP server directory — discover, search & explore MCP servers | [![GitHub](https://img.shields.io/github/stars/eL1fe/mcpdir?style=flat-square&color=black)](https://github.com/eL1fe/mcpdir) |
@@ -104,8 +108,11 @@ const pavel = {
   <img src="https://img.shields.io/badge/Vue.js-000?style=flat-square&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
@@ -139,7 +146,9 @@ const pavel = {
 
 <p>
   <a href="https://el1fe.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pavelpiuro"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:piuro.pavel@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://t.me/e_L1fe"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+  <a href="https://www.linkedin.com/in/el1fe"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://github.com/eL1fe"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
