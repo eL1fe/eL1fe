@@ -9,7 +9,7 @@
 const pavel = {
   role: "Full-Stack Developer",
   focus: ["AI developer tools", "high-load web systems", "great UX"],
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "Docker"],
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "Docker", "Bun"],
   currently: "Building AI-powered products & fintech infrastructure",
   portfolio: "https://el1fe.com"
 };
