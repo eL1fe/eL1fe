@@ -22,6 +22,26 @@ const pavel = {
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://cogitator.app">
+        <img src="https://img.shields.io/badge/Cogitator-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cogitator"/>
+      </a>
+      <br/>
+      <sub><b>Sovereign AI Agent Runtime</b></sub>
+      <br/>
+      <sub>Kubernetes for AI agents. Self-hosted and TypeScript-native.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://dailyinference.news">
+        <img src="https://img.shields.io/badge/The_Daily_Inference-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjMxIiByPSIxMyIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjMxIiBjeT0iNjQiIHI9IjEzIiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNjkiIGN5PSI2NCIgcj0iMTMiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D&logoColor=white" alt="The Daily Inference"/>
+      </a>
+      <br/>
+      <sub><b>AI-Written Newspaper</b></sub>
+      <br/>
+      <sub>Three editions a day, written, argued over and edited by AI agents. Built on Cogitator and Tetsu.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://mcpdir.dev">
         <img src="https://img.shields.io/badge/MCP_Hub-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Hub"/>
       </a>
@@ -60,19 +80,6 @@ const pavel = {
       <sub><b>OG Image API</b></sub>
       <br/>
       <sub>Generate social preview images via API</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://cogitator.app">
-        <img src="https://img.shields.io/badge/Cogitator-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cogitator"/>
-      </a>
-      <br/>
-      <sub><b>Sovereign AI Agent Runtime</b></sub>
-      <br/>
-      <sub>Kubernetes for AI agents. Self-hosted and TypeScript-native.</sub>
-    </td>
-    <td align="center" width="50%">
     </td>
   </tr>
 </table>
